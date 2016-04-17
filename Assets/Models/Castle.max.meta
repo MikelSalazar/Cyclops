@@ -1,0 +1,404 @@
+fileFormatVersion: 2
+guid: c727d76843905044e8c41e099e3cff58
+timeCreated: 1460883707
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Door
+    100004: Entrance
+    100006: Flloor
+    100008: InnerWall 001
+    100010: InnerWall 002
+    100012: InnerWall 003
+    100014: InnerWall 004
+    100016: InnerWall 005
+    100018: InnerWall 007
+    100020: InnerWall 008
+    100022: InnerWall 009
+    100024: InnerWall 010
+    100026: InnerWall 011
+    100028: InnerWall 012
+    100030: InnerWall 013
+    100032: InnerWall 014
+    100034: InnerWall 015
+    100036: InnerWall 016
+    100038: InnerWall 017
+    100040: InnerWall 019
+    100042: InnerWall 020
+    100044: InnerWall 021
+    100046: InnerWall 022
+    100048: Tower 001
+    100050: Tower 002
+    100052: Tower 003
+    100054: Tower 004
+    100056: Wall 001
+    100058: Wall 002
+    100060: Wall 003
+    100062: Wall 004
+    100064: Wall 005
+    100066: Wall 006
+    100068: Wall 007
+    100070: Wall 008
+    100072: Wall 009
+    100074: Wall 010
+    100076: Wall 011
+    100078: Wall 012
+    100080: Wall 013
+    100082: Wall 016
+    100084: InnerWall 023
+    100086: InnerWall 024
+    100088: InnerWall 025
+    100090: InnerWall 026
+    100092: InnerWall 027
+    100094: InnerWall 028
+    100096: InnerWall 029
+    100098: InnerWall 030
+    100100: InnerWall 031
+    100102: InnerWall 032
+    100104: InnerWall 033
+    100106: InnerWall 034
+    100108: InnerWall 035
+    100110: InnerWall 036
+    100112: InnerWall 037
+    100114: InnerWall 038
+    100116: InnerWall 039
+    100118: InnerWall 040
+    100120: InnerWall 041
+    100122: InnerWall 042
+    100124: InnerWall 043
+    100126: InnerWall 044
+    100128: InnerWall 045
+    100130: InnerWall 046
+    100132: InnerWall 047
+    400000: //RootNode
+    400002: Door
+    400004: Entrance
+    400006: Flloor
+    400008: InnerWall 001
+    400010: InnerWall 002
+    400012: InnerWall 003
+    400014: InnerWall 004
+    400016: InnerWall 005
+    400018: InnerWall 007
+    400020: InnerWall 008
+    400022: InnerWall 009
+    400024: InnerWall 010
+    400026: InnerWall 011
+    400028: InnerWall 012
+    400030: InnerWall 013
+    400032: InnerWall 014
+    400034: InnerWall 015
+    400036: InnerWall 016
+    400038: InnerWall 017
+    400040: InnerWall 019
+    400042: InnerWall 020
+    400044: InnerWall 021
+    400046: InnerWall 022
+    400048: Tower 001
+    400050: Tower 002
+    400052: Tower 003
+    400054: Tower 004
+    400056: Wall 001
+    400058: Wall 002
+    400060: Wall 003
+    400062: Wall 004
+    400064: Wall 005
+    400066: Wall 006
+    400068: Wall 007
+    400070: Wall 008
+    400072: Wall 009
+    400074: Wall 010
+    400076: Wall 011
+    400078: Wall 012
+    400080: Wall 013
+    400082: Wall 016
+    400084: InnerWall 023
+    400086: InnerWall 024
+    400088: InnerWall 025
+    400090: InnerWall 026
+    400092: InnerWall 027
+    400094: InnerWall 028
+    400096: InnerWall 029
+    400098: InnerWall 030
+    400100: InnerWall 031
+    400102: InnerWall 032
+    400104: InnerWall 033
+    400106: InnerWall 034
+    400108: InnerWall 035
+    400110: InnerWall 036
+    400112: InnerWall 037
+    400114: InnerWall 038
+    400116: InnerWall 039
+    400118: InnerWall 040
+    400120: InnerWall 041
+    400122: InnerWall 042
+    400124: InnerWall 043
+    400126: InnerWall 044
+    400128: InnerWall 045
+    400130: InnerWall 046
+    400132: InnerWall 047
+    2300000: Door
+    2300002: Entrance
+    2300004: Flloor
+    2300006: InnerWall 001
+    2300008: InnerWall 002
+    2300010: InnerWall 003
+    2300012: InnerWall 004
+    2300014: InnerWall 005
+    2300016: InnerWall 007
+    2300018: InnerWall 008
+    2300020: InnerWall 009
+    2300022: InnerWall 010
+    2300024: InnerWall 011
+    2300026: InnerWall 012
+    2300028: InnerWall 013
+    2300030: InnerWall 014
+    2300032: InnerWall 015
+    2300034: InnerWall 016
+    2300036: InnerWall 017
+    2300038: InnerWall 019
+    2300040: InnerWall 020
+    2300042: InnerWall 021
+    2300044: InnerWall 022
+    2300046: Tower 001
+    2300048: Tower 002
+    2300050: Tower 003
+    2300052: Tower 004
+    2300054: Wall 001
+    2300056: Wall 002
+    2300058: Wall 003
+    2300060: Wall 004
+    2300062: Wall 005
+    2300064: Wall 006
+    2300066: Wall 007
+    2300068: Wall 008
+    2300070: Wall 009
+    2300072: Wall 010
+    2300074: Wall 011
+    2300076: Wall 012
+    2300078: Wall 013
+    2300080: Wall 016
+    2300082: InnerWall 023
+    2300084: InnerWall 024
+    2300086: InnerWall 025
+    2300088: InnerWall 026
+    2300090: InnerWall 027
+    2300092: InnerWall 028
+    2300094: InnerWall 029
+    2300096: InnerWall 030
+    2300098: InnerWall 031
+    2300100: InnerWall 032
+    2300102: InnerWall 033
+    2300104: InnerWall 034
+    2300106: InnerWall 035
+    2300108: InnerWall 036
+    2300110: InnerWall 037
+    2300112: InnerWall 038
+    2300114: InnerWall 039
+    2300116: InnerWall 040
+    2300118: InnerWall 041
+    2300120: InnerWall 042
+    2300122: InnerWall 043
+    2300124: InnerWall 044
+    2300126: InnerWall 045
+    2300128: InnerWall 046
+    2300130: InnerWall 047
+    3300000: Door
+    3300002: Entrance
+    3300004: Flloor
+    3300006: InnerWall 001
+    3300008: InnerWall 002
+    3300010: InnerWall 003
+    3300012: InnerWall 004
+    3300014: InnerWall 005
+    3300016: InnerWall 007
+    3300018: InnerWall 008
+    3300020: InnerWall 009
+    3300022: InnerWall 010
+    3300024: InnerWall 011
+    3300026: InnerWall 012
+    3300028: InnerWall 013
+    3300030: InnerWall 014
+    3300032: InnerWall 015
+    3300034: InnerWall 016
+    3300036: InnerWall 017
+    3300038: InnerWall 019
+    3300040: InnerWall 020
+    3300042: InnerWall 021
+    3300044: InnerWall 022
+    3300046: Tower 001
+    3300048: Tower 002
+    3300050: Tower 003
+    3300052: Tower 004
+    3300054: Wall 001
+    3300056: Wall 002
+    3300058: Wall 003
+    3300060: Wall 004
+    3300062: Wall 005
+    3300064: Wall 006
+    3300066: Wall 007
+    3300068: Wall 008
+    3300070: Wall 009
+    3300072: Wall 010
+    3300074: Wall 011
+    3300076: Wall 012
+    3300078: Wall 013
+    3300080: Wall 016
+    3300082: InnerWall 023
+    3300084: InnerWall 024
+    3300086: InnerWall 025
+    3300088: InnerWall 026
+    3300090: InnerWall 027
+    3300092: InnerWall 028
+    3300094: InnerWall 029
+    3300096: InnerWall 030
+    3300098: InnerWall 031
+    3300100: InnerWall 032
+    3300102: InnerWall 033
+    3300104: InnerWall 034
+    3300106: InnerWall 035
+    3300108: InnerWall 036
+    3300110: InnerWall 037
+    3300112: InnerWall 038
+    3300114: InnerWall 039
+    3300116: InnerWall 040
+    3300118: InnerWall 041
+    3300120: InnerWall 042
+    3300122: InnerWall 043
+    3300124: InnerWall 044
+    3300126: InnerWall 045
+    3300128: InnerWall 046
+    3300130: InnerWall 047
+    4300000: Flloor
+    4300002: Tower 001
+    4300004: Tower 002
+    4300006: Tower 003
+    4300008: Tower 004
+    4300010: Wall 001
+    4300012: Wall 002
+    4300014: Wall 003
+    4300016: Wall 004
+    4300018: Wall 005
+    4300020: Wall 006
+    4300022: Wall 007
+    4300024: Wall 008
+    4300026: Wall 009
+    4300028: Wall 010
+    4300030: Wall 011
+    4300032: Wall 012
+    4300034: Wall 013
+    4300036: Wall 016
+    4300038: Entrance
+    4300040: Door
+    4300042: InnerWall 001
+    4300044: InnerWall 002
+    4300046: InnerWall 003
+    4300048: InnerWall 004
+    4300050: InnerWall 005
+    4300052: InnerWall 007
+    4300054: InnerWall 008
+    4300056: InnerWall 009
+    4300058: InnerWall 010
+    4300060: InnerWall 011
+    4300062: InnerWall 012
+    4300064: InnerWall 013
+    4300066: InnerWall 014
+    4300068: InnerWall 015
+    4300070: InnerWall 016
+    4300072: InnerWall 017
+    4300074: InnerWall 019
+    4300076: InnerWall 020
+    4300078: InnerWall 021
+    4300080: InnerWall 022
+    4300082: InnerWall 023
+    4300084: InnerWall 024
+    4300086: InnerWall 025
+    4300088: InnerWall 026
+    4300090: InnerWall 027
+    4300092: InnerWall 028
+    4300094: InnerWall 029
+    4300096: InnerWall 030
+    4300098: InnerWall 031
+    4300100: InnerWall 032
+    4300102: InnerWall 033
+    4300104: InnerWall 034
+    4300106: InnerWall 035
+    4300108: InnerWall 036
+    4300110: InnerWall 037
+    4300112: InnerWall 038
+    4300114: InnerWall 039
+    4300116: InnerWall 040
+    4300118: InnerWall 041
+    4300120: InnerWall 042
+    4300122: InnerWall 043
+    4300124: InnerWall 044
+    4300126: InnerWall 045
+    4300128: InnerWall 046
+    4300130: InnerWall 047
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00100000005
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
